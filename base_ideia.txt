@@ -1,0 +1,21 @@
+const base = [
+    {
+      url: "www.google.com/teste/teste/teste/teste/teste",
+      downtime: [
+        {
+          date: "17/03/2022",
+          total: 1
+        },
+        {
+          date: "18/03/2022",
+          total: 1
+        },
+      ]
+    },
+]
+
+const totalDowntime = [
+  {
+    total_downtime: 2,
+  }
+]
